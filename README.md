@@ -25,7 +25,6 @@ Wheels
 We also checked the shape of the data, identified any missing values, and explored unique values in the dataset.
 Model Building:
 
-Next, we'll choose the best machine learning models to predict car prices and evaluate how well they perform.
 Conclusion:
 The project aims to create a reliable model that can help predict car prices based on key features, making it easier to understand what affects car values.
 
